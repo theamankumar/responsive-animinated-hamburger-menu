@@ -146,6 +146,7 @@ header{
 
 .hamburger-menu div:after{
     transform: translateY(7px);
+    color: green;
 }
 
 #check{
